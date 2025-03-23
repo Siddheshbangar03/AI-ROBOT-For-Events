@@ -9,6 +9,7 @@ from langchain.chains import RetrievalQA
 from langchain.vectorstores import FAISS
 from langchain.prompts import PromptTemplate
 from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain.document_loaders import PyMuPDFLoader
 from langchain.llms import HuggingFaceHub
 
 # Set Hugging Face API token
