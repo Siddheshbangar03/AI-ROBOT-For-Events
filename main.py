@@ -12,7 +12,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.llms import HuggingFaceHub
 
 # Set Hugging Face API token
-os.environ["HUGGINGFACEHUB_API_TOKEN"] = HUGGINGFACEHUB_API_TOKEN
+os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
 
 # FastAPI initialization
 app = FastAPI()
