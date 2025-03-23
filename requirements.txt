@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+speechrecognition
+pyttsx3
+pymupdf
+langchain
+sentence-transformers
+huggingface_hub
+faiss-cpu
+pydantic
